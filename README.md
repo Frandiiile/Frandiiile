@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hello, my name is Frandile Aimane and I am an Engineering Student at [ENSIAS](http://ensias.um5.ac.ma/) majoring in Computer Science, Applied Mathematics & Finance.
 I have a fair share of experience in using and manipulating Financial Data for dashboarding and for machine learning, the highlight of this shall be without doubt my internship at [Casablanca Stock Exchange Market](https://www.casablanca-bourse.com/fr) as a Financial Data Analyst.
 
-I am without a doubt passionate about AI, Machine Learning and how to solve multiple problems with the tools I know and those that I *will* learn fast given soem circumstances.
+I am without a doubt passionate about AI, Machine Learning and how to solve multiple problems with the tools I know and those that I *will* learn fast given some circumstances.
 
 In recent years, I worked on multiple projects giving life to this interest of mine.
 
