@@ -22,7 +22,7 @@ I am without a doubt passionate about AI, Machine Learning and how to solve mult
 
 In recent years, I worked on multiple projects giving life to this interest of mine.
 
-For instance I associated AI and Finance multiple times, used RL to optimize power consumption in a given institution....etc
+For instance I associated AI and Finance multiple times (check repos for public projects), used RL to optimize power consumption in a given institution....etc
 
 
 My technology stack involves Python,C,C++,Java,HTML,CSS,Jenkins,Spark,Excel & VBA,MySQL and others.
