@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 Hello, my name is Frandile Aimane and I am an Engineering Student at [ENSIAS](http://ensias.um5.ac.ma/) majoring in Computer Science & Finance.
 I have a fair share of exeprience in using and manipulating Financial data for dashboarding and for machine learning, the highlight of this shall be without doubt my internship at [Casablanca Stock Exchange Market](https://www.casablanca-bourse.com/fr) as a Financial Data Analyst.
+
 My technology stack involves Python,C,C++,Java,HTML,CSS,Jenkins,Spark,Excel & VBA,MySQL and others.
 
 - 🔭 I’m currently looking for an end of studies internship in the Data Science and/or Finance
