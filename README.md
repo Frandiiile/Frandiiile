@@ -25,7 +25,7 @@ In recent years, I worked on multiple projects giving life to this interest of m
 For instance I associated AI and Finance multiple times (check repos for public projects), used RL to optimize power consumption in a given institution....etc
 
 
-My technology stack involves Python,C,C++,Java,HTML,CSS,Jenkins,Spark,Excel & VBA,MySQL and others.
+My technology stack involves Python,C,C#,C++,Java,HTML,CSS,Jenkins,Spark,Excel & VBA,MySQL and others.
 
 - 🔭 I’m currently looking for an end of studies internship in the Data Science and/or Finance
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
