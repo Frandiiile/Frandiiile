@@ -61,7 +61,7 @@ My technology stack involves Python,C,C#,C++,Java,HTML,CSS,Jenkins,Spark,Excel &
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;&nbsp;
 
-![Aimane's Github Stats](https://github-readme-stats.vercel.app/api?username=frandiiile&count_private=true&show_icons=true&include_all_commits=true)
+[![Aimane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frandiiile)](https://github.com/Frandiiile/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frandiiile&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frandiiile.frandiiile)
