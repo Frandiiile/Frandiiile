@@ -73,6 +73,8 @@ My technology stack involves Python,C,C#,C++,Java,HTML,CSS,Jenkins,Spark,Excel &
 
 If you have any questions about Finance or data, feel free to <a href="mailto:frandile.aimane@gmail.com">contact me through email</a> me.
 
+I'm always looking for stuff to work on and challenges to solve.
+
   </td>
   <td width="50%" valign="top">
 
