@@ -61,9 +61,10 @@ My technology stack involves Python,C,C#,C++,Java,HTML,CSS,Jenkins,Spark,Excel &
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;&nbsp;
 
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frandiiile&theme=react&line_height=40&hide=css"/> </a>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Frandiiile&theme=react&line_height=40&hide=css"/> </a>
 
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frandiiile&theme=react&line_height=40&hide=css"/> </a>
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frandiiile.frandiiile)
