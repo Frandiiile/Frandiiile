@@ -62,8 +62,7 @@ My technology stack involves Python,C,C#,C++,Java,HTML,CSS,Jenkins,Spark,Excel &
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;&nbsp;
 
 <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frandiiile&theme=react&line_height=40&hide=css"/> </a>
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Frandiiile&theme=react&line_height=40&hide=css"/> </a>
-
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frandiiile&size_weight=0.5&count_weight=0.5&theme=react&line_height=40&hide=css"/> </a>
 
 
 
