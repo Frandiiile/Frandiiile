@@ -32,7 +32,8 @@ My technology stack involves Python,C,C#,C++,Java,HTML,CSS,Jenkins,Spark,Excel &
 - 📫 How to reach me: frandile.aimane@gmail.com
 - ⚡ Fun fact: Checkout my [Linkedin Profile](https://www.linkedin.com/in/aimane-frandile/) if you are curious! (You'll find some articles there,make sure to check them out)
 - 📝 [Resume](https://github.com/Frandiiile/resume/blob/main/Cv_Ang_DS.pdf)
-
+  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frandiiile.frandiiile)
 **Languages and Tools:** 
 
 
@@ -60,13 +61,19 @@ My technology stack involves Python,C,C#,C++,Java,HTML,CSS,Jenkins,Spark,Excel &
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;&nbsp;
-
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
 <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frandiiile&theme=react&line_height=40&hide=css"/> </a>
+    </td>
+  <td width="50%" valign="top">
 <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frandiiile&size_weight=0.5&count_weight=0.5&theme=react&line_height=40&hide=css"/> </a>
+ </td>
+  </tr>
+</table>
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frandiiile.frandiiile)
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
