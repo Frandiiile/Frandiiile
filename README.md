@@ -80,7 +80,7 @@ My technology stack involves Python,C,C#,C++,Java,HTML,R,CSS,Docker,Jenkins,Spar
 
 ## Let's Work on a Project Together!
 
-If you have any questions about Finance or data, feel free to <a href="mailto:frandile.aimane@gmail.com">contact me through email</a> me.
+If you have any questions about Finance or data, feel free to <a href="mailto:frandile.aimane@gmail.com">contact me through email</a>.
 
 I'm always looking for stuff to work on and challenges to solve.
 
