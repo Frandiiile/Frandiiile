@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Frandile Aimane and I am an Engineering Student at [ENSIAS](http://ensias.um5.ac.ma/) majoring in Computer Science, Applied Mathematics, Statistics & Finance.
-I have a fair share of experience in using and manipulating Financial Data for dashboarding and machine learning, my most recent experience in these fields is my internship at [Casablanca Stock Exchange Market](https://www.casablanca-bourse.com/fr) as a Data Analyst.
+Hello, my name is Frandile Aimane and I am an Engineering Student at [ENSIAS](http://ensias.um5.ac.ma/) majoring in Data Science, Applied Mathematics, Statistics & Finance.
+I have a fair share of experience in using and manipulating & analyzing Data for dashboarding and machine learning, my most recent experience in these fields is my internship at [Casablanca Stock Exchange Market](https://www.casablanca-bourse.com/fr) as a Data Analyst.
 
 I am without a doubt passionate about AI, Machine Learning and how to solve multiple problems with the tools I know and those that I *will* learn fast given some circumstances.
 
 In recent years, I worked on multiple projects giving life to this interest of mine.
 
-For instance I associated AI and Finance multiple times (check repos for public projects), used RL to optimize power consumption in a given institution....etc
+For instance I associated AI and Finance multiple times (check repos for public projects), used Reinforcement Learning to optimize power consumption in a given institution....etc
 
 
 My technology stack involves Python,C,C#,C++,Java,HTML,R,CSS,Docker,Jenkins,Spark,Excel & VBA,MySQL and others.
