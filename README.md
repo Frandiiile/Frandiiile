@@ -31,7 +31,7 @@ My technology stack involves Python,C,C#,C++,Java,HTML,R,CSS,Docker,Jenkins,Spar
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: frandile.aimane@gmail.com
 - ⚡ Fun fact: Checkout my [Linkedin Profile](https://www.linkedin.com/in/aimane-frandile/) if you are curious! (You'll find some articles there,make sure to check them out)
-- 📝 [Resume](https://github.com/Frandiiile/resume/blob/main/Cv_Ang_DS.pdf)
+- 📝 [Resume](https://github.com/Frandiiile/resume/blob/main/Cv_Frandile_Ang.pdf)
   
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frandiiile.frandiiile)
 **Languages and Tools:** 
