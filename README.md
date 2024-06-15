@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Frandile Aimane and I am an Engineering Student at [ENSIAS](http://ensias.um5.ac.ma/) majoring in Data Science, Applied Mathematics, Statistics & Finance.
+Hello, my name is Frandile Aimane and I am an Engineering Student at [Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-) majoring in Big Data, Data Science, Applied Mathematics, Statistics & Finance.
 I have a fair share of experience in using and manipulating & analyzing Data for dashboarding and machine learning, my most recent experience in these fields is my internship at [Casablanca Stock Exchange Market](https://www.casablanca-bourse.com/fr) as a Data Analyst.
-
+and my role as a Data Engineer at [Leyton]([https://www.casablanca-bourse.com/fr](https://leyton.com/fr/)) does too.
 I am without a doubt passionate about AI, Machine Learning and how to solve multiple problems with the tools I know and those that I *will* learn fast given some circumstances.
 
 In recent years, I worked on multiple projects giving life to this interest of mine.
@@ -27,11 +27,10 @@ For instance I associated AI and Finance multiple times (check repos for public 
 
 My technology stack involves Python,C,C#,C++,Java,HTML,R,CSS,Docker,Jenkins,Spark,Excel & VBA,MySQL and others.
 
-- 🔭 I’m currently looking for an end of studies internship in the Data Science and/or Finance
+- 🔭 I’m currently looking for an Apprenticeship.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: frandile.aimane@gmail.com
 - ⚡ Fun fact: Checkout my [Linkedin Profile](https://www.linkedin.com/in/aimane-frandile/) if you are curious! (You'll find some articles there,make sure to check them out)
-- 📝 [Resume](https://github.com/Frandiiile/resume/blob/main/Cv_Frandile_Ang.pdf)
   
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frandiiile.frandiiile)
 **Languages and Tools:** 
