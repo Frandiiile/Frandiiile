@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Frandile Aimane and I am an Engineering Student at [Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-) majoring in Big Data, Data Science, Applied Mathematics, Statistics & Finance.
-I have a fair share of experience in using and manipulating & analyzing Data for dashboarding and machine learning, my most recent experience in these fields is my internship at [Casablanca Stock Exchange Market](https://www.casablanca-bourse.com/fr) as a Data Analyst.
-and my role as a Data Engineer at [Leyton](https://leyton.com/fr/) does too.
+Hello, my name is Frandile Aimane and I am a Data Engineer from ENSIAS with a minor in Finance currently a student at [Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-) majoring in Big Data.
+I have a fair share of experience in using and manipulating & analyzing Data for dashboarding and machine learning, my most recent experience in these fields is my apprenticeship at Socotec as a Data Engineer.
+and my role as a Big Data Engineer at [Leyton](https://leyton.com/fr/) does too.
 
 I am without a doubt passionate about AI, Machine Learning and how to solve multiple problems with the tools I know and those that I *will* learn fast given some circumstances.
 
