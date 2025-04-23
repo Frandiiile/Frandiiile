@@ -28,7 +28,7 @@ For instance I associated AI and Finance multiple times (check repos for public 
 
 My technology stack involves Python,C,C#,C++,Java,HTML,R,CSS,Docker,Jenkins,Spark,Excel & VBA,MySQL and others.
 
-- 🔭 I’m currently looking for an Apprenticeship.
+- 🔭 I’m currently looking for an Junior level job in France.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: frandile.aimane@gmail.com
 - ⚡ Fun fact: Checkout my [Linkedin Profile](https://www.linkedin.com/in/aimane-frandile/) if you are curious! (You'll find some articles there,make sure to check them out)
