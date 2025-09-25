@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Frandile Aimane and I am a Data Engineer from ENSIAS with a minor in Finance currently a student at [Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-) majoring in Big Data.
+Hello, my name is Frandile Aimane and I am a AI & Data Engineer from ENSIAS with a minor in Finance currently a student at [Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-) majoring in Big Data.
 I have a fair share of experience in using and manipulating & analyzing Data for dashboarding and machine learning, my most recent experience in these fields is my apprenticeship at Socotec as a Data Engineer.
 and my role as a Big Data Engineer at [Leyton](https://leyton.com/fr/) does too.
 
