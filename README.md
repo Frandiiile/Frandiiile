@@ -1,87 +1,120 @@
 # Hi there, I'm Aimane Frandile
 
-### Python Software Engineer | Data & AI | Data Engineering & Generative AI
+## AI Engineer | Python Software Engineer | Data Engineering & Generative AI
 
-I’m a **Python Software Engineer specialized in Data & AI**, with strong expertise in **Data Engineering, Machine Learning, Generative AI**, and **API development**.
+I am an AI & Data Engineer specialized in Python, building scalable data platforms, intelligent systems, and production-grade AI applications.
 
-Graduated from **ENSIAS (AI & Data Engineering)** and holder of a **Master’s degree in Big Data & Data Mining from Université Paris 8**, I design and build scalable data pipelines and intelligent systems that transform raw data into business value.
+Graduated from ENSIAS (AI & Data Engineering) and holding a Master’s degree in Big Data & Artificial Intelligence from Université Paris 8, I design end-to-end systems — from raw data ingestion to deployed AI services.
 
-I have professional experience as:
-- Python Engineer working on AI & Data  at Socotec  
-- Big Data Engineer at Leyton  
+My focus areas include:
 
-where I worked on data platforms, analytics pipelines, and AI-driven solutions.
+- Generative AI & LLM systems (RAG, agents, automation)
+- Data Engineering & distributed processing
+- Scalable backend architectures
+- High-performance API development
+- Cloud-based data platforms
 
 ---
 
-## What I Do
+## Professional Experience
 
-- Design and develop **data pipelines (ETL/ELT)**  
-- Build and deploy **REST APIs using FastAPI, Django, and Flask**  
-- Develop **Machine Learning & Generative AI applications (LLMs, RAG, automation)**  
-- Work with **Big Data technologies (Spark, SQL, APIs)**  
-- Turn data into insights through dashboards and predictive models  
-- Build production-ready Python services  
+### AI & Data Engineer — Socotec
+- Migrated full Data Lake to AWS / Databricks Lakehouse
+- Designed Bronze/Silver/Gold Lakehouse architecture
+- Built and optimized 20+ ELT pipelines (PySpark / SQL, ERP >100GB)
+- Orchestrated workflows using Airflow (10+ DAGs on Kubernetes)
+- Developed Finance Analytics and reporting platforms
+- Implemented CI/CD for multi-environment deployments
 
-I’m passionate about:
-- Artificial Intelligence and Machine Learning  
-- Generative AI and LLM-based systems  
-- Data Engineering and scalable architectures  
-- Backend engineering with Python  
-- AI applied to Finance and Industry  
+### Big Data Engineer — Leyton
+- Designed cloud-based data platforms (Azure / GCP)
+- Built distributed data pipelines with Spark and SQL
+- Delivered analytics and performance dashboards
+- Contributed to AI-driven data processing solutions
+
+---
+
+## What I Build
+
+- End-to-end data pipelines (ETL / ELT)
+- Distributed processing systems with Spark
+- Workflow orchestration using Airflow
+- REST APIs with FastAPI, Django, and Flask
+- LLM-powered systems (RAG pipelines, AI assistants)
+- Automation agents and intelligent workflows
+- Predictive ML models and optimization systems
+- Production-ready Python services with Docker and CI/CD
+
+---
+
+## Generative AI & LLM Engineering
+
+I actively work on:
+
+- Retrieval-Augmented Generation (RAG)
+- Vector databases and embeddings
+- Prompt engineering and evaluation frameworks
+- Multi-agent systems
+- AI automation pipelines
+- LLM API integrations (OpenAI, Groq, others)
+- AI applications for Finance and Industry
 
 ---
 
 ## Tech Stack
 
-### Programming  
-Python · Java · C/C++ · C# · JavaScript · SQL · R  
+### Programming
+Python · Java · C/C++ · C# · SQL · JavaScript · R
 
-### Backend & APIs  
-FastAPI · Django · Flask  
+### Data Engineering
+Spark · Airflow · SQL optimization · Data modeling · Lakehouse architecture  
+Batch and streaming processing
 
-### Data & AI  
-Pandas · NumPy · Spark · Scikit-learn · TensorFlow · Keras  
-Matplotlib · Plotly · Power BI  
+### Backend & APIs
+FastAPI · Django · Flask · REST · OpenAPI
 
-### Databases  
-PostgreSQL · MySQL · Elasticsearch  
+### AI / ML
+Pandas · NumPy · Scikit-learn · TensorFlow · Keras  
+LLMs · RAG · Prompt engineering
 
-### DevOps & Tools  
-Docker · Jenkins · Git · GitHub · Linux  
-Jupyter Notebook · LaTeX  
+### Databases
+PostgreSQL · MySQL · Elasticsearch
+
+### Cloud & DevOps
+AWS · Azure · Docker · Kubernetes · Jenkins · Git · Linux  
+CI/CD · Containerized deployments
 
 ---
 
 ## Projects & Interests
 
-Some of my projects include:
-- AI for Finance (prediction, risk analysis, automation)  
-- Reinforcement Learning for energy optimization  
-- Generative AI applications (LLMs, smart assistants, data automation)  
-- REST APIs for data and AI services  
-- Data Engineering pipelines from APIs and large-scale datasets  
-- Dashboards and analytics platforms  
+Selected areas I work on:
 
-Check my repositories for public projects.
+- AI for Finance (risk analysis, forecasting, automation)
+- Generative AI systems and intelligent assistants
+- Reinforcement Learning for optimization problems
+- Data Engineering pipelines from APIs and large-scale datasets
+- AI-driven backend services
+- Analytics platforms and decision-support systems
+
+Explore my repositories for technical implementations and production-oriented projects.
 
 ---
 
 ## Current Goals
 
-- Seeking a Junior Python Software Engineer, Data Engineer, or AI Engineer role in France  
-- Improving my skills in Generative AI, Cloud, and MLOps  
-- Open to collaborations on Data, AI, and Backend projects  
+- AI Engineer, Data Engineer, or Python Backend roles in France
+- Deepening expertise in Generative AI systems and MLOps
+- Building robust, scalable AI architectures
+- Contributing to impactful, data-driven systems
 
 ---
 
-## Let’s Connect
+## Contact
 
-Email: **frandile.aimane@gmail.com**  
-LinkedIn: https://www.linkedin.com/in/aimane-frandile/  
+Email: frandile.aimane@gmail.com  
+LinkedIn: https://www.linkedin.com/in/aimane-frandile/
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Frandiiile.Frandiiile)
-
-> **“Engineering is the art of solving other people’s problems.”**
+“Engineering is the art of solving complex problems with elegant systems.”
