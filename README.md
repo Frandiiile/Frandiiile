@@ -1,102 +1,96 @@
-### Hi there 👋, I'm Aimane! 😁
-<!--
-**rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+# Hi there, I'm Aimane Frandile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🤔 I’m looking for help with Statistics
-- 👯 I’m looking to collaborate on ...
--->
+### Python Software Engineer | Data & AI | Data Engineering & Generative AI
 
-Hello, my name is Frandile Aimane and I am a AI & Data Engineer from ENSIAS with a minor in Finance currently a student at [Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-) majoring in Big Data.
-I have a fair share of experience in using and manipulating & analyzing Data for dashboarding and machine learning, my most recent experience in these fields is my apprenticeship at Socotec as a Data Engineer.
-and my role as a Big Data Engineer at [Leyton](https://leyton.com/fr/) does too.
+I’m a **Python Software Engineer specialized in Data & AI**, with strong expertise in **Data Engineering, Machine Learning, Generative AI**, and **API development**.
 
-I am without a doubt passionate about AI, Machine Learning and how to solve multiple problems with the tools I know and those that I *will* learn fast given some circumstances.
+Graduated from **ENSIAS (AI & Data Engineering)** and holder of a **Master’s degree in Big Data & Data Mining from Université Paris 8**, I design and build scalable data pipelines and intelligent systems that transform raw data into business value.
 
-In recent years, I worked on multiple projects giving life to this interest of mine.
+I have professional experience as:
+- Data Engineer at Socotec  
+- Big Data Engineer at Leyton  
 
-For instance I associated AI and Finance multiple times (check repos for public projects), used Reinforcement Learning to optimize power consumption in a given institution....etc
+where I worked on data platforms, analytics pipelines, and AI-driven solutions.
 
+---
 
-My technology stack involves Python,C,C#,C++,Java,HTML,R,CSS,Docker,Jenkins,Spark,Excel & VBA,MySQL and others.
+## What I Do
 
-- 🔭 I’m currently looking for an Junior level job in France.
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: frandile.aimane@gmail.com
-- ⚡ Fun fact: Checkout my [Linkedin Profile](https://www.linkedin.com/in/aimane-frandile/) if you are curious! (You'll find some articles there,make sure to check them out)
-  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frandiiile.frandiiile)
-**Languages and Tools:** 
+- Design and develop **data pipelines (ETL/ELT)**  
+- Build and deploy **REST APIs using FastAPI, Django, and Flask**  
+- Develop **Machine Learning & Generative AI applications (LLMs, RAG, automation)**  
+- Work with **Big Data technologies (Spark, SQL, APIs)**  
+- Turn data into insights through dashboards and predictive models  
+- Build production-ready Python services  
 
+I’m passionate about:
+- Artificial Intelligence and Machine Learning  
+- Generative AI and LLM-based systems  
+- Data Engineering and scalable architectures  
+- Backend engineering with Python  
+- AI applied to Finance and Industry  
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)&nbsp;&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;&nbsp;
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;&nbsp;
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;&nbsp;
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frandiiile&theme=react&line_height=40&hide=css"/> </a>
-    </td>
-  <td width="50%" valign="top">
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frandiiile&size_weight=0.5&count_weight=0.5&theme=react&line_height=40&hide=css"/> </a>
- </td>
-  </tr>
-</table>
+---
 
+## Tech Stack
 
+### Programming  
+Python · Java · C/C++ · C# · JavaScript · SQL · R  
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+### Backend & APIs  
+FastAPI · Django · Flask  
 
-## Let's Work on a Project Together!
+### Data & AI  
+Pandas · NumPy · Spark · Scikit-learn · TensorFlow · Keras  
+Matplotlib · Plotly · Power BI  
 
-If you have any questions about Finance or data, feel free to <a href="mailto:frandile.aimane@gmail.com">contact me through email</a>.
+### Databases  
+PostgreSQL · MySQL · Elasticsearch  
 
-I'm always looking for stuff to work on and challenges to solve.
+### DevOps & Tools  
+Docker · Jenkins · Git · GitHub · Linux  
+Jupyter Notebook · LaTeX  
 
-  </td>
-  <td width="50%" valign="top">
+---
 
-## It's not perfect, isn't it?
+## Projects & Interests
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+Some of my projects include:
+- AI for Finance (prediction, risk analysis, automation)  
+- Reinforcement Learning for energy optimization  
+- Generative AI applications (LLMs, smart assistants, data automation)  
+- REST APIs for data and AI services  
+- Data Engineering pipelines from APIs and large-scale datasets  
+- Dashboards and analytics platforms  
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+Check my repositories for public projects.
 
-  </td>
-  </tr>
-</table>
+---
 
-------
-Credits: [Frandiiile](https://github.com/Frandiiile)
+## Current Goals
+
+- Seeking a Junior Python Software Engineer, Data Engineer, or AI Engineer role in France  
+- Improving my skills in Generative AI, Cloud, and MLOps  
+- Open to collaborations on Data, AI, and Backend projects  
+
+---
+
+## Let’s Connect
+
+Email: **frandile.aimane@gmail.com**  
+LinkedIn: https://www.linkedin.com/in/aimane-frandile/  
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Frandiiile.Frandiiile)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frandiiile&show_icons=true&theme=react" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frandiiile&layout=compact&theme=react" width="45%"/>
+</p>
+
+---
+
+> **“Engineering is the art of solving other people’s problems.”**
