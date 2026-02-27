@@ -7,7 +7,7 @@ I’m a **Python Software Engineer specialized in Data & AI**, with strong exper
 Graduated from **ENSIAS (AI & Data Engineering)** and holder of a **Master’s degree in Big Data & Data Mining from Université Paris 8**, I design and build scalable data pipelines and intelligent systems that transform raw data into business value.
 
 I have professional experience as:
-- Data Engineer at Socotec  
+- Python Engineer working on AI & Data  at Socotec  
 - Big Data Engineer at Leyton  
 
 where I worked on data platforms, analytics pipelines, and AI-driven solutions.
@@ -83,14 +83,5 @@ LinkedIn: https://www.linkedin.com/in/aimane-frandile/
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Frandiiile.Frandiiile)
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frandiiile&show_icons=true&theme=react" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frandiiile&layout=compact&theme=react" width="45%"/>
-</p>
-
----
 
 > **“Engineering is the art of solving other people’s problems.”**
